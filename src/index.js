@@ -22,7 +22,7 @@ root.render(
 <Route path="/Fitness" element={<Fitness/>} />
 <Route path="/Technology" element={<Food/>} />
 <Route path="/Food" element={<Food/>} />
-<Route path="/Fitness/Layout" element={<Layout/>} />
+
 
 </Routes>
 </BrowserRouter>
