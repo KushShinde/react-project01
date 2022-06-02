@@ -10,7 +10,7 @@ import BottomCards from "./Components/BottomCards";
 import SmallCards from "./Components/SmallCards";
 import Tourism from "./Tourism";
 import Fitness from "./Fitness";
-import Technology from "./Technnology";
+
 
 
 
