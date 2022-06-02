@@ -1,0 +1,137 @@
+*{  
+    margin-left: 10px;
+}
+.Header{
+    margin: 10px;
+    display: flex;
+    position: relative;
+}
+.Header-01{
+    height: 20px;
+    width: 28px;
+    transform: rotate(270deg);
+    align-items: center;
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    position: absolute;
+    left: 566px;
+    top: 24px;
+
+}
+.Header-02{
+    margin-left: 0px;
+    padding-left:0px;
+    font-size: 40px;
+    position: absolute;
+    left: 593px;
+}
+.nav-border{
+    border-bottom: 1px solid black;
+    
+}
+.me-auto{
+    font-size: 20px;
+    display: flex;
+    grid-column-gap: 90px;
+    
+}
+.container{
+    margin-left: 180px;
+    margin-top: 40px;
+}
+.latest{
+    display: inline;
+    font-size: 30px;
+}
+.latest:hover{
+    border-bottom: 4px solid red;
+
+}
+
+.container-grid{
+    position: relative;
+    
+}
+.Image-01{
+    height: 400px;
+    width: 600px;
+    border-radius: 20px;
+    margin: auto;
+    padding: 5px;
+  
+}
+.Image-02{
+    height: 200px;
+    width: 350px;
+    border-radius: 20px;
+    margin: auto;
+    padding: 5px;
+    position: absolute;
+    top: 244px;
+    left: 635px;    
+}
+.Image-03{
+    height: 200px;
+    width: 350px;
+    border-radius: 20px;
+    margin: auto;
+    padding: 5px;
+    position: absolute;
+    top: 454px;
+    left: 635px;  
+}
+
+ .Container-template{
+     display: flex;
+     gap: 10px;
+ }
+.container-04{
+    display: flex;
+     gap: 10px;
+}
+.Child-container-05{
+    height: 200px;
+    width: 672px;
+    display: flex;
+    box-sizing: border-box;
+    border-bottom: 1px solid grey;
+    padding-bottom: 20px;
+
+}
+.Child-small-container{
+    height: 151px;
+    width: 400px;
+    display: flex;
+    box-sizing: border-box;
+    border-bottom: 1px solid grey;
+    padding-bottom: 20px;
+
+}
+.template{
+    height:200px;
+    width: 672px;
+    display: flex;
+    box-sizing: border-box;
+    border-bottom: 1px solid grey;
+    padding-bottom: 20px
+
+}
+.main-template{
+    display: flex;
+    margin-top: 10px;
+}
+.gotClicked-img{
+    height: 400px;
+    width: 600px;
+    margin-top: 20px
+    
+}
+
+.pointer {cursor: pointer}
+.layout-main{margin:20px}
+.layout-img{
+    height: 600px;
+    width: 1200px;
+    margin: 20px;
+}
