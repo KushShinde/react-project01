@@ -8,7 +8,7 @@ import Layout from './Components/Layout';
 
 function  gotClicked(){
     return(<>      
-     <Link to="/Fitness/Layout" ></Link>
+     
        <Layout
        title="High-intensity and intervals"
         para="Physical fitness is a state of health and well-being and, more specifically, the ability to perform aspects of sports, occupations and daily activities"
