@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import Tourism from './Tourism';
 import Fitness from './Fitness';
-import Technology from './Technnology';
+
 import Food from './Food'
 import {
     BrowserRouter,
@@ -20,7 +20,7 @@ root.render(
 <Route path="/" element={<App />} />
 <Route path="/Tourism" element={<Tourism/>} />
 <Route path="/Fitness" element={<Fitness/>} />
-<Route path="/Technology" element={<Technology/>} />
+<Route path="/Technology" element={<Food/>} />
 <Route path="/Food" element={<Food/>} />
 <Route path="/Fitness/Layout" element={<Layout/>} />
 

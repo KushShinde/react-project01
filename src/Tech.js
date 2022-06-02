@@ -1,4 +1,4 @@
-const techsport=[
+const techSport=[
     {   key: '1',
         title: "Technology" ,
         para :"The application of scientific knowledge for practical purposes, especially in industry."  ,
